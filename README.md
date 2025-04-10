@@ -36,15 +36,12 @@ A web-based Tour Management System developed as a minor project. It allows users
 
 Tour-Project-main/ ├── admin/ # Admin dashboard ├── includes/ # Common includes like header, footer ├── images/ # Images used in the site ├── user/ # User registration and login ├── css/, js/ # Stylesheets and scripts ├── index.php # Homepage └── ... # Other pages (about, contact, tours, etc.)
 
-yaml
-Copy
-Edit
 
 ## Preview
-
-*(Add a screenshot of the homepage or booking interface here)*
-![Screenshot 2025-04-06 165915](https://github.com/user-attachments/assets/83286735-54fc-4e05-9f6c-4ff84b68de46)
-
+![Screenshot 2025-04-06 165915](https://github.com/user-attachments/assets/9de2c9d7-4fe0-43a3-9387-5bd37a2ef179)
+![Screenshot 2025-04-06 165945](https://github.com/user-attachments/assets/3336f2e9-67ef-48a0-af52-002a688f94ea)
+![Screenshot 2025-04-06 170021](https://github.com/user-attachments/assets/9a57e014-d86a-46a5-8a12-207e92ca2575)
+![Screenshot 2025-04-06 170119](https://github.com/user-attachments/assets/5ef54285-5af0-4d96-b73e-0e6221c73dfc)
 
 ## License
 
